@@ -1,7 +1,6 @@
 # ¡Hola! Soy [Rubén Jofré] conocido como rukkysy 👋
 
-👨‍💻 Sobre mí
-Soy un Progeamador web.
+deaaaaaaaa
 
 
 <!---
