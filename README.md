@@ -1,7 +1,6 @@
-# ¡Hola! Soy [Rubén Jofré] conocido como rukkysy 👋
+¡Hola! Soy Rubén Jofré conocido como rukkysy 👋
 
-deaaaaaaaa
-
+Soy Programador Web
 
 <!---
 rukkysy/rukkysy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
